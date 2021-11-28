@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting) <br> [Symmetry-Aware Neural Networks for the Material Sciences with `e3nn`](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) 
 
-You can use the [editor on GitHub](https://github.com/e3nn/e3nn-tutorial-mrs-fall-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Spacetime coordinates {#spacetime}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<pre>
+Monday, November 29, 2021
+8:30 AM - 5:00 PM
+Hynes, Level 2, Room 205
+</pre>
+[Hynes Convention Center Floor Plans](https://www.signatureboston.com/hynes/floor-plans-and-specs)
 
-### Markdown
+## Tutorials {#tutorial}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tutorial 1: Euclidean Symmetry in Machine Learning for Materials Science by <i>Tess Smidt</i> {#tut1}
+Video | Slides | Colab | Code
 
-```markdown
-Syntax highlighted code block
+### Tutorial 2: Group theory, irreducible representations, and tensor products and how to use them in `e3nn` to build Euclidean Neural Networks by <i>Mario Geiger</i> {#tut2}
+Video | Slides | Colab | Code
 
-# Header 1
-## Header 2
-### Header 3
+### Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by <i>Martin Uhrin</i> {#tut3}
+Video | Slides | Colab | Code
 
-- Bulleted
-- List
+### Tutorial 4: Molecular dynamics with NequIP by <i>Simon Batzner and Alby Musaelian</i> {#tut4}
+Video | Slides | Colab | Code
 
-1. Numbered
-2. List
+### Tutorial 5: Predicting Electron Densities with e3nn by <i>Josh Rackers</i> {#tut5}
+Video | Slides | Colab | Code
 
-**Bold** and _Italic_ and `Code` text
+### Tutorial 6: Predicting Phonon Properties of Crystal Structures by <i>Nina Andrejevic and Zhantao Chen</i> {#tut6}
+Video | Slides | Colab | Code
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e3nn/e3nn-tutorial-mrs-fall-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
