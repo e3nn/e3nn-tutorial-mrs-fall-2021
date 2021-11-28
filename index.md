@@ -1,4 +1,4 @@
-# [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions) <br> [Symmetry-Aware Neural Networks<br>for the Material Sciences with](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) [`e3nn`](https://e3nn.org)
+# [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions) <br> [Symmetry-Aware Neural Networks<br>for the Materials Science with](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) [`e3nn`](https://e3nn.org)
 
 Understanding the role of symmetry in the physical sciences is critical for choosing an appropriate machine-learning method. 
 
@@ -57,7 +57,7 @@ Video | Slides | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4
 Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy?usp=sharing) | Code
 
 ## Tutorial 6: Predicting Phonon Properties of Crystal Structures by [<i>Nina Andrejevic</i>](#nina) and [<i>Zhantao Chen</i>](#zhantao) {#tut6}
-Video | Slides | Colab | Code
+Video | Slides | Colab | [Code](https://github.com/ninarina12/phononDoS_tutorial)
 
 # Related Talks at MRS 2021 Fall Meeting {#related}
 
