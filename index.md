@@ -1,6 +1,6 @@
 # [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions) <br> [Symmetry-Aware Neural Networks<br>for the Materials Science with](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) [`e3nn`](https://e3nn.org)
 
-Understanding the role of symmetry in the physical sciences is critical for choosing an appropriate machine-learning method. 
+Understanding the role of symmetry in the physical sciences is critical for choosing an appropriate machine-learning method.
 
 In this tutorial we will present how to incorporate Euclidean and permutation symmetries into neural networks and the benefits of these techniques for predicting a variety of properties of atomic systems (molecules, crystal, and beyond).
 * The morning session will include..
@@ -28,7 +28,7 @@ Hynes, Level 2, Room 205
 
 8:30 - 9:30am  | <a href="#tut1">Tutorial 1: Intro to Symmetry in ML</a>
 9:30 - 10:00am | BREAK
-10:00 - 11:00am | <a href="#tut2">Tutorial 2: Group theory, irreps, and tensor products</a> 
+10:00 - 11:00am | <a href="#tut2">Tutorial 2: Group theory, irreps, and tensor products</a>
 11:00 - noon | <a href="#tut3">Tutorial 3: Invariant functions for geometry of atomic structures</a>
 noon - 1:30pm | LUNCH
 1:30-2:30pm | <a href="#tut4">Tutorial 4: Molecular dynamics</a>
@@ -39,13 +39,17 @@ noon - 1:30pm | LUNCH
 
 # Tutorials and Materials {#tutorials}
 
-## Overview 
+## Overview
 
 ## Tutorial 1: Euclidean Symmetry in Machine Learning for Materials Science by [<i>Tess Smidt</i>](#tess) {#tut1}
 Video | Slides | Colab | Code
 
 ## Tutorial 2: Group theory, irreducible representations, and tensor products and how to use them in `e3nn` to build Euclidean Neural Networks by [<i>Mario Geiger</i>](#mario) {#tut2}
-Video | Slides | Colab | Code
+Video | [Slides](https://slides.com/mariogeiger/e3nn_mrs_2021/)
+
+[Colab Spherical Harmonics](https://colab.research.google.com/drive/1JYlgVk68dHb8IEHsOHtT1dDNdOohJD00?usp=sharing)
+[Colab Tensor Products with weights](https://colab.research.google.com/drive/1aR2HuZvKbvVNVUUjDVRl1ne9D2Kag7Mn?usp=sharing)
+[Colab Reduce Tensor Product](https://colab.research.google.com/drive/1SYRLJS2MPmRyguXn3RZ_L5CoR3sLgW8w?usp=sharing)
 
 ## Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by [<i>Martin Uhrin</i>](#martin) {#tut3}
 Video | Slides | Colab | Code
@@ -100,13 +104,13 @@ Martin Uhrin is a senior postdoctoral research in the group of Nicola Marzari at
 Martin earned his Ph.D. in computational physics from the University College London under the supervision of Chris Pickard. He holds an MPhys. in computational physics from the University of Edinburgh.
 
 ## Simon Batzner {#simon}
-Simon Batzner is a PhD student at Harvard University, working under the supervision of Prof. Boris Kozinsky. His research interests focus on the development of Machine-Learning Interatomic Potentials for accelerated Molecular Dynamics simulations. Before joining Harvard, he obtained his Master’s at MIT, where he worked with Prof. Alexie Kolpak on problems in atomistic Machine Learning. He obtained his bachelor’s degree at the University of Stuttgart, Germany, during which he also spent one year working on the SOFIA mission at the NASA Armstrong Flight Research Center. 
+Simon Batzner is a PhD student at Harvard University, working under the supervision of Prof. Boris Kozinsky. His research interests focus on the development of Machine-Learning Interatomic Potentials for accelerated Molecular Dynamics simulations. Before joining Harvard, he obtained his Master’s at MIT, where he worked with Prof. Alexie Kolpak on problems in atomistic Machine Learning. He obtained his bachelor’s degree at the University of Stuttgart, Germany, during which he also spent one year working on the SOFIA mission at the NASA Armstrong Flight Research Center.
 
 ## Alby Musaelian {#alby}
 Albert Musaelian is a PhD student in Boris Kozinsky's Materials Intelligence Research (MIR) group at Harvard University. He works on the design and implementation of equivariant machine learning methods for atomistic simulations with a particular focus on machine-learning interatomic potentials.
 
 ## Josh Rackers {#josh}
-Josh Rackers is a Truman Fellow at Sandia National Labs. Josh is interested in developing methods to enable quantum-accurate simulation of biological molecules. To this end, he is involved in research spanning from quantum chemistry through classical molecular dynamics simulation. Josh is particularly interested in using physics-aware machine learning (ML) models to predict charge densities of large biomolecular systems. Josh earned a Ph.D. in Biophysics from Washington University in St. Louis and a B.S. in Physics and Political Science from Ohio State University. Before venturing into graduate school, he taught high school physics and chemistry in Baltimore, Maryland. 
+Josh Rackers is a Truman Fellow at Sandia National Labs. Josh is interested in developing methods to enable quantum-accurate simulation of biological molecules. To this end, he is involved in research spanning from quantum chemistry through classical molecular dynamics simulation. Josh is particularly interested in using physics-aware machine learning (ML) models to predict charge densities of large biomolecular systems. Josh earned a Ph.D. in Biophysics from Washington University in St. Louis and a B.S. in Physics and Political Science from Ohio State University. Before venturing into graduate school, he taught high school physics and chemistry in Baltimore, Maryland.
 
 
 ## Nina Andrejevic {#nina}
