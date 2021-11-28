@@ -1,4 +1,4 @@
-## [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting) <br> [Symmetry-Aware Neural Networks for the Material Sciences with `e3nn`](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) 
+## [<i>MRS 2021 Fall Meeting Tutorial:</i>](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions) <br> [Symmetry-Aware Neural Networks for the Material Sciences with `e3nn`](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/tutorial-sessions-detail/2021_mrs_fall_meeting/eq04/tutorial-eq04-) 
 
 ## Spacetime coordinates {#spacetime}
 
