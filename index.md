@@ -58,7 +58,7 @@ noon - 1:30pm | LUNCH
 Video | [Slides](https://drive.google.com/file/d/1v_-2VIZ2iQsL22aiLbklUSBuk3MXalNE/view?usp=sharing) | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip) | [example.yaml](https://github.com/mir-group/nequip/blob/main/configs/example.yaml)
 
 ## Tutorial 5: Predicting Electron Densities with e3nn by [<i>Josh Rackers</i>](#josh) {#tut5}
-Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy#scrollTo=PTTwyYkhioyc) | Code
+Video | [Slides](https://e3nn.org/e3nn-tutorial-mrs-fall-2021/pdfs/Josh_densities_MRS_Tutorial.pdf) | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy#scrollTo=PTTwyYkhioyc) | Code
 
 ## Tutorial 6: Predicting Phonon Properties of Crystal Structures by [<i>Nina Andrejevic</i>](#nina) and [<i>Zhantao Chen</i>](#zhantao) {#tut6}
 [Video](https://youtu.be/fYiEX_mBSHc) | [Slides](https://github.com/ninarina12/phononDoS_tutorial/blob/main/Introduction.pdf) | [Colab](https://colab.research.google.com/github/ninarina12/phononDoS_tutorial/blob/main/phononDoS_colab.ipynb) | [Code](https://github.com/ninarina12/phononDoS_tutorial)
