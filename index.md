@@ -58,7 +58,7 @@ noon - 1:30pm | LUNCH
 Video | [Slides](https://drive.google.com/file/d/1v_-2VIZ2iQsL22aiLbklUSBuk3MXalNE/view?usp=sharing) | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip)
 
 ## Tutorial 5: Predicting Electron Densities with e3nn by [<i>Josh Rackers</i>](#josh) {#tut5}
-Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy?usp=sharing) | Code
+Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy#scrollTo=PTTwyYkhioyc) | Code
 
 ## Tutorial 6: Predicting Phonon Properties of Crystal Structures by [<i>Nina Andrejevic</i>](#nina) and [<i>Zhantao Chen</i>](#zhantao) {#tut6}
 [Video](https://youtu.be/fYiEX_mBSHc) | [Slides](https://github.com/ninarina12/phononDoS_tutorial/blob/main/Introduction.pdf) | [Colab](https://colab.research.google.com/github/ninarina12/phononDoS_tutorial/blob/main/phononDoS_colab.ipynb) | [Code](https://github.com/ninarina12/phononDoS_tutorial)
@@ -90,6 +90,18 @@ Sheraton, 5th Floor, The Fens
 </pre>
 
 Message Passing Graph Neural Networks (MPNNs) based on pairwise interactions have emerged as the leading paradigm for modeling atomistic systems by recursively propagating information along a molecular graph. While MPNNs have consistently been demonstrated to give low generalization errors, they inherently have a low level of interpretability, are not systematically improvable, and are difficult to scale to large numbers of atoms. Here, we introduce the Deep Interatomic Cluster Expansion (DICE), an equivariant neural network that leverages many-body information in a single interaction, without the need for message passing or convolutions. The method can be systematically improved by including higher-order interactions at linear cost, has physically meaningful hyperparameters, and is embarrassingly parallel. DICE builds on a novel, learnable E(3)-equivariant many-body representation that utilizes weighted tensor products of geometric features to describe N-point correlations of atoms. The proposed many-body representation overcomes the exponential scaling of a naive cluster expansion and instead scales linearly with the number of simultaneously correlated particles. We demonstrate that the use of higher-order correlations of atoms systematically improves the accuracy. We further find that DICE gives excellent performance across a wide variety of settings, outperforming both MPNNs as well as kernel-based methods on small data sets.
+
+## [EN12.08.08](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/symposium-sessions-detail/2021_mrs_fall_meeting/en12)<br>Neural Equivariant Interatomic Potentials for Large-Scale Electrolyte Simulations<br><br><i>Nicola Molinari, [Albert Musaelian](#alby), Juan Felipe Gomez, Robert Newman, [Simon Batzner](#simon), Boris Kozinsky</i>
+
+<pre>
+Thursday 3:15 PM, December 2, 2021
+Hynes, Level 3, Ballroom A
+</pre>
+
+Electrolytes control battery recharge time and efficiency, anode/cathode stability, and ultimately safety, thus their optimization is crucial for the design of modern energy storage devices. In this work, we focus on ionic liquid-based electrolytes. This promising class of electrolytes possesses superior chemical stability compared to standard organic solvents, however, poor and anomalous transport properties are hindering their applicability [1]. Unfortunately, classical energy models struggle to provide the level of accuracy needed to reliably predict and investigate ionic conductivity.
+
+Here we study the applicability to such systems of state-of-the-art equivariant graph neural networks (NequIP [2]). Ionic liquid-based electrolytes provide a unique challenge due to their strong ionic interactions and liquid nature. Additionally, substantially diverse inter-atomic environments are expected as a function of lithium-salt doping [3], raising the question of model transferability. Our promising results show that we can circumnavigate the ad-hoc and system-dependent tweaks to the classical energy models (for instance charge rescaling or polarizability), while retaining computational speed and near-DFT accuracy for large-scale ionic transport molecular dynamics investigations.
+
 
 # Instructors
 
