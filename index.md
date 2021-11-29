@@ -42,8 +42,8 @@ noon - 1:30pm | LUNCH
 ## Overview
 
 ## Tutorial 1: Euclidean Symmetry in Machine Learning for Materials Science by [<i>Tess Smidt</i>](#tess) {#tut1}
-Video | Slides | Colab | Code
-
+Video | [Slides](https://docs.google.com/presentation/d/1y-fCZihLoSBgAqNYKZY1-jy8qpvqagqPTsX-jR0uTm8/edit?usp=sharing)
+ 
 ## Tutorial 2: Group theory, irreducible representations, and tensor products and how to use them in `e3nn` to build Euclidean Neural Networks by [<i>Mario Geiger</i>](#mario) {#tut2}
 Video | [Slides](https://slides.com/mariogeiger/e3nn_mrs_2021/)
 
@@ -51,8 +51,8 @@ Video | [Slides](https://slides.com/mariogeiger/e3nn_mrs_2021/)
 [Colab Tensor Products with weights](https://colab.research.google.com/drive/1aR2HuZvKbvVNVUUjDVRl1ne9D2Kag7Mn?usp=sharing)
 [Colab Reduce Tensor Product](https://colab.research.google.com/drive/1SYRLJS2MPmRyguXn3RZ_L5CoR3sLgW8w?usp=sharing)
 
-## Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by [<i>Martin Uhrin</i>](#martin) {#tut3}
-Video | Slides | Colab | Code
+## Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by [<i>Martin Uhrin</i>](#martin) and [<i>Thomas Hardin</i>(#thomas) {#tut3}
+Video | Slides | [Colab](https://colab.research.google.com/drive/1duR1Y-roE_CSL3hrGxINMZ4XIepHvoHt?usp=sharing) | Code
 
 ## Tutorial 4: Molecular dynamics with NequIP by [<i>Simon Batzner</i>](#simon) and [<i>Alby Musaelian</i>](#alby) {#tut4}
 Video | Slides | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip)
@@ -102,6 +102,9 @@ Mario Geiger is a PhD in the laboratory of Physics of Complex Systems at EPFL in
 ## Martin Uhrin {#martin}
 Martin Uhrin is a senior postdoctoral research in the group of Nicola Marzari at EPFL in Switzerland. The focus of his research is the development and application of methods that accelerate materials discovery, particularly in the area of prediction and rationalisation of crystal structures. To this end, Martin has built up expertise in ab-initio structure prediction, empirical potential development, cluster prediction and deep learning. He has also contributed to the development of many community tools and was lead architect of the AiiDA workflow engine, part of the widely used AiiDA materials informatics platform.
 Martin earned his Ph.D. in computational physics from the University College London under the supervision of Chris Pickard. He holds an MPhys. in computational physics from the University of Edinburgh.
+
+## Thomas Hardin {#thomas}
+Thomas Hardin is a Truman Fellow at Sandia National Laboratories. Thomas designs disordered materials and uses machine learning to discover low-dimensional manifolds underpinning the structure of glass. His other research work with disordered materials includes mesoscale and atomistic modeling, additive manufacturing, and microparticle impact testing. Thomas earned his doctorate degree in Materials Science and Engineering from the Massachusetts Institute of Technology, working with Professor Chris Schuh, and a dual bachelor’s degree in Mathematics and Mechanical Engineering from Brigham Young University, working with Professors Brent Adams and Eric Homer.
 
 ## Simon Batzner {#simon}
 Simon Batzner is a PhD student at Harvard University, working under the supervision of Prof. Boris Kozinsky. His research interests focus on the development of Machine-Learning Interatomic Potentials for accelerated Molecular Dynamics simulations. Before joining Harvard, he obtained his Master’s at MIT, where he worked with Prof. Alexie Kolpak on problems in atomistic Machine Learning. He obtained his bachelor’s degree at the University of Stuttgart, Germany, during which he also spent one year working on the SOFIA mission at the NASA Armstrong Flight Research Center.
