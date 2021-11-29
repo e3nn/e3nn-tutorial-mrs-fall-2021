@@ -39,17 +39,17 @@ noon - 1:30pm | LUNCH
 
 # Tutorials and Materials {#tutorials}
 
-## Overview
+[YouTube playlist for tutorial](https://www.youtube.com/watch?v=q9EwZsHY1sk&list=PLx3xbphkO3qIlBoESkbafXaDtr0tq5iRd)
 
 ## Tutorial 1: Euclidean Symmetry in Machine Learning for Materials Science by [<i>Tess Smidt</i>](#tess) {#tut1}
-Video | [Slides](https://docs.google.com/presentation/d/1y-fCZihLoSBgAqNYKZY1-jy8qpvqagqPTsX-jR0uTm8/edit?usp=sharing)
+[Video](https://youtu.be/q9EwZsHY1sk) | [Slides](https://docs.google.com/presentation/d/1y-fCZihLoSBgAqNYKZY1-jy8qpvqagqPTsX-jR0uTm8/edit?usp=sharing)
  
 ## Tutorial 2: Group theory, irreducible representations, and tensor products and how to use them in `e3nn` to build Euclidean Neural Networks by [<i>Mario Geiger</i>](#mario) {#tut2}
-Video | [Slides](https://slides.com/mariogeiger/e3nn_mrs_2021/)
+[Video](https://youtu.be/9rS8gtey_Ic) | [Slides](https://slides.com/mariogeiger/e3nn_mrs_2021/) 
 
-[Colab Spherical Harmonics](https://colab.research.google.com/drive/1JYlgVk68dHb8IEHsOHtT1dDNdOohJD00?usp=sharing)
-[Colab Tensor Products with weights](https://colab.research.google.com/drive/1aR2HuZvKbvVNVUUjDVRl1ne9D2Kag7Mn?usp=sharing)
-[Colab Reduce Tensor Product](https://colab.research.google.com/drive/1SYRLJS2MPmRyguXn3RZ_L5CoR3sLgW8w?usp=sharing)
+* [Colab for Spherical Harmonics](https://colab.research.google.com/drive/1JYlgVk68dHb8IEHsOHtT1dDNdOohJD00?usp=sharing)
+* [Colab for Tensor Products with weights](https://colab.research.google.com/drive/1aR2HuZvKbvVNVUUjDVRl1ne9D2Kag7Mn?usp=sharing)
+* [Colab for Reduce Tensor Product](https://colab.research.google.com/drive/1SYRLJS2MPmRyguXn3RZ_L5CoR3sLgW8w?usp=sharing)
 
 ## Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by [<i>Martin Uhrin</i>](#martin) and [<i>Thomas Hardin</i>(#thomas) {#tut3}
 Video | Slides | [Colab](https://colab.research.google.com/drive/1duR1Y-roE_CSL3hrGxINMZ4XIepHvoHt?usp=sharing) | Code
