@@ -52,7 +52,7 @@ noon - 1:30pm | LUNCH
 * [Colab for Reduce Tensor Product](https://colab.research.google.com/drive/1SYRLJS2MPmRyguXn3RZ_L5CoR3sLgW8w?usp=sharing)
 
 ## Tutorial 3: Analyzing geometry and structure of atomic configurations with equivariant and invariant functions by [<i>Martin Uhrin</i>](#martin) and [<i>Thomas Hardin</i>](#thomas) {#tut3}
-Video | Slides | [Colab](https://colab.research.google.com/drive/1duR1Y-roE_CSL3hrGxINMZ4XIepHvoHt?usp=sharing) | Code
+Video | Slides (see `notebooks` in Code) | [Colab](https://colab.research.google.com/drive/1duR1Y-roE_CSL3hrGxINMZ4XIepHvoHt?usp=sharing) | [Code](https://github.com/muhrin/mrs-tutorial)
 
 ## Tutorial 4: Molecular dynamics with NequIP by [<i>Simon Batzner</i>](#simon) and [<i>Alby Musaelian</i>](#alby) {#tut4}
 Video | Slides | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip)
