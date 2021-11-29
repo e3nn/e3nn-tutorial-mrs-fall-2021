@@ -58,10 +58,10 @@ noon - 1:30pm | LUNCH
 Video | Slides | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip)
 
 ## Tutorial 5: Predicting Electron Densities with e3nn by [<i>Josh Rackers</i>](#josh) {#tut5}
-[Video](https://youtu.be/fYiEX_mBSHc) | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy?usp=sharing) | Code
+Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy?usp=sharing) | Code
 
 ## Tutorial 6: Predicting Phonon Properties of Crystal Structures by [<i>Nina Andrejevic</i>](#nina) and [<i>Zhantao Chen</i>](#zhantao) {#tut6}
-Video | Slides | Colab | [Code](https://github.com/ninarina12/phononDoS_tutorial)
+[Video](https://youtu.be/fYiEX_mBSHc) | [Slides](https://github.com/ninarina12/phononDoS_tutorial/blob/main/Introduction.pdf) | [Colab](https://colab.research.google.com/github/ninarina12/phononDoS_tutorial/blob/main/phononDoS_colab.ipynb) | [Code](https://github.com/ninarina12/phononDoS_tutorial)
 
 # Related Talks at MRS 2021 Fall Meeting {#related}
 
