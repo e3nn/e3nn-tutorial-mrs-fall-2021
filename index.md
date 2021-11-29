@@ -55,7 +55,7 @@ noon - 1:30pm | LUNCH
 [Video](https://youtu.be/6W3syIWfOA4) | Slides ([Part 1](https://colab.research.google.com/drive/1PS8-COtxoHJlHnShyTrubRAlFX4X8l77?usp=sharing) | [Part 2](https://drive.google.com/file/d/1D0YRpyl_BhOjpdrrhofQzxrHTF-ED-k2/view?usp=sharing)) | [Colab](https://colab.research.google.com/drive/1duR1Y-roE_CSL3hrGxINMZ4XIepHvoHt?usp=sharing) | [Code](https://github.com/muhrin/mrs-tutorial)
 
 ## Tutorial 4: Molecular dynamics with NequIP by [<i>Simon Batzner</i>](#simon) and [<i>Alby Musaelian</i>](#alby) {#tut4}
-Video | [Slides](https://drive.google.com/file/d/1v_-2VIZ2iQsL22aiLbklUSBuk3MXalNE/view?usp=sharing) | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip)
+Video | [Slides](https://drive.google.com/file/d/1v_-2VIZ2iQsL22aiLbklUSBuk3MXalNE/view?usp=sharing) | [Colab](https://colab.research.google.com/drive/1_r348f6oIyKxH4FnpKeD8g4QjwDhP8mT?usp=sharing) | [NequIP](https://github.com/mir-group/nequip) | [example.yaml](https://github.com/mir-group/nequip/blob/main/configs/example.yaml)
 
 ## Tutorial 5: Predicting Electron Densities with e3nn by [<i>Josh Rackers</i>](#josh) {#tut5}
 Video | Slides | [Colab](https://colab.research.google.com/drive/1ryOQ6hXxCidM_mGN0Yrf4BbjUtpyCxgy#scrollTo=PTTwyYkhioyc) | Code
